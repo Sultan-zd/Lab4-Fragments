@@ -28,7 +28,7 @@ Ce laboratoire m'a permis d'assimiler des concepts fondamentaux du système Andr
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone [https://github.com/Sultan-zd/Lab4-Fragments.git](https://github.com/Sultan-zd/Lab4-Fragments.git)
+   git clone https://github.com/Sultan-zd/Lab4-Fragments.git
    
 2. Ouvrez Android Studio.
 
